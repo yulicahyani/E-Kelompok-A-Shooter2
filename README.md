@@ -2,7 +2,7 @@
 Final Project Indonesian Women in Tech 2021
 
 Group Member :
-IDEALISA HUTAPEA
+<br> IDEALISA HUTAPEA
 NI MADE YULI CAHYANI
 
 Credits for assets used:
