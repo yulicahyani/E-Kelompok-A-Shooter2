@@ -2,16 +2,16 @@
 Final Project Indonesian Women in Tech 2021
 
 Group Member :
-<br> IDEALISA HUTAPEA
-NI MADE YULI CAHYANI
+<br>- IDEALISA HUTAPEA
+<br>- NI MADE YULI CAHYANI
 
-Credits for assets used:
-https://mtk.itch.io/grenades-16x16
-http://gushh.net/blog/free-game-sprites-explosion-3/
-https://erayzesen.itch.io/pixel-platformer
-https://secrethideout.itch.io/team-wars-platformer-battle
-https://soundbible.com/1875-Bullet-Whizzing-By.html
-https://soundimage.org/fantasywonder/
+Credits for assets used :
+<br>https://mtk.itch.io/grenades-16x16
+<br>http://gushh.net/blog/free-game-sprites-explosion-3/
+<br>https://erayzesen.itch.io/pixel-platformer
+<br>https://secrethideout.itch.io/team-wars-platformer-battle
+<br>https://soundbible.com/1875-Bullet-Whizzing-By.html
+<br>https://soundimage.org/fantasywonder/
 
-Source code reference
-https://github.com/russs123/Shooter
+Source code reference :
+<br>https://github.com/russs123/Shooter
