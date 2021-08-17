@@ -13,5 +13,6 @@ Credits for assets used :
 <br>https://soundbible.com/1875-Bullet-Whizzing-By.html
 <br>https://soundimage.org/fantasywonder/
 
-Source code reference :
+References :
+<br>https://youtube.com/playlist?list=PLjcN1EyupaQm20hlUE11y9y8EY2aXLpnv
 <br>https://github.com/russs123/Shooter
