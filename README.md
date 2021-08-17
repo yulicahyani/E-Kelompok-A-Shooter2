@@ -1,8 +1,8 @@
 # E-Kelompok-A-Shooter2
 Final Project Indonesian Women in Tech 2021
 
-![image](https://user-images.githubusercontent.com/71582007/129704608-c9a10aa4-5342-4078-b2ba-5e770b6dd8d9.png)
-![image](https://user-images.githubusercontent.com/71582007/129704570-fe15bdb9-115f-4b5e-a3ad-3c454ace61d4.png)
+![image](https://user-images.githubusercontent.com/71582007/129704771-ff85a32e-a9b1-4369-bc4b-556e964490ed.png)
+![image](https://user-images.githubusercontent.com/71582007/129704784-3dc189d1-3fbb-4a7a-b4af-6abd15a9beb9.png)
 
 Group Member :
 <br>- NI MADE YULI CAHYANI
