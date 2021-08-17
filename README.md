@@ -2,8 +2,8 @@
 Final Project Indonesian Women in Tech 2021
 
 Group Member :
-<br>- IDEALISA HUTAPEA
 <br>- NI MADE YULI CAHYANI
+<br>- IDEALISA HUTAPEA
 
 Credits for assets used :
 <br>https://mtk.itch.io/grenades-16x16
